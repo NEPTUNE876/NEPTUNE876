@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi all, im Ben! 👋
+
+I am currently working on project that will sim racers everywhere!
+
+Keep your eyes peeled for the release and feel free to ping me if you want to find out more!
 
 <!--
 **NEPTUNE876/NEPTUNE876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
