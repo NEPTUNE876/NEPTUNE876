@@ -1,6 +1,6 @@
 ## Hi all, im Ben! 👋
 
-I am currently working on project that will help sim racers everywhere!
+I am currently working on some personal projects...
 
 Keep your eyes peeled for the release and feel free to ping me if you want to find out more!
 
